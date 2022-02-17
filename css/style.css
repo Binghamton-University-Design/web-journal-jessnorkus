@@ -11,7 +11,10 @@ body {
   margin: 0;  
   font-family: 'Chivo', sans-serif;
   font-weight: 500;
+  background-color: ivory;
 }
+
+
 
 h1,h2,h3,h4,p {
 	margin-top: 0;
@@ -190,6 +193,12 @@ h1,h2 {
   text-decoration-color: var(--body-color); 
 }
 
+/*proposal*/
+
+h1 {
+  font-size: 22px;
+  font-weight: bold;
+}
 
 /*FOOTER*/
 
@@ -239,7 +248,7 @@ h1,h2 {
   }
 
   body {
-    font-size: 18px;
+    font-size: 20px;
   }
 
 }
