@@ -120,10 +120,8 @@ h1,h2 {
 }
 
 .work-item .inner .work-inside {
-  color: #fff;
-  padding: 2rem;
+  padding: 2rem 0;
   width: 100%;
-  background-color: var(--body-color);
   text-align: right;
 }
 
