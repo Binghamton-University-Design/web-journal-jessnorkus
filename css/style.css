@@ -30,9 +30,38 @@ h5 {
 
 }
 
+.block {
+  overflow: visible;
+  width: 1200px;
+  margin: 50px auto;
+  background: #black;
+}
+
+.animation {
+  width: auto;
+  height: 800px;
+  font-size: 0px;
+}
+.animation div {
+  display: inline-block;
+  width: auto;
+  float: none;
+  padding: 0 10px;
+}
+
+   
+}
+div{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 20px;
+}
+}
+
 h1,h2 {
 	font-weight: 800;
 }
+
 
 #wrapper {
 	margin: 0 auto;
@@ -97,6 +126,7 @@ h1,h2 {
   text-decoration: none;
   font-size: 1.2rem;
 }
+
 
 /* INTRO */
 
@@ -242,7 +272,7 @@ h1 {
   }
 
   #intro {
-    height: 50vh;
+    height: 70vh;
   }
 
   #intro-holder {
@@ -250,9 +280,10 @@ h1 {
   }
 
   body {
-    font-size: 20px;
+    font-size: 18px;
   }
 
 }
+
 
 
