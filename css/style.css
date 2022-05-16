@@ -133,7 +133,7 @@ h1,h2 {
 #intro {
   display: flex;
   align-items: center;
-  height: 70vh;
+  height: 80vh;
 }
 
 #work h3, #page h3 {
@@ -232,6 +232,11 @@ h1 {
   font-weight: bold;
 }
 
+.urllink {
+  text-decoration: underline;
+}
+
+
 /*FOOTER*/
 
 #footer {
@@ -243,6 +248,8 @@ h1 {
 #footer p:last-child {
   margin-bottom: 0;
 }
+
+
 
 /*RESPONSIVE*/
 
